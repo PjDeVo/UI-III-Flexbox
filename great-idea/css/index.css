@@ -240,6 +240,16 @@ footer div {
   margin: 20px;
 }
 
+.services-nav a {
+  color: gray;
+  text-decoration: none;
+  transition: 0.8s;
+}
+
+.services-nav a:hover {
+  color: black;
+}
+
 .services-header-img {
   width: 100%;
   margin-bottom: 25px;
